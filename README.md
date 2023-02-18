@@ -1,6 +1,6 @@
 # Examination-of-Adolescent-Criminality-in-India
 
-The main objective of the project is to use the Crime-In-India dataset from Kaggle to predict and categorize the Indian states and union territories based on their level of awareness regarding juvenile delinquency. 
+The main objective of the project is to use the 'Crime-In-India' dataset from Kaggle to predict and categorize the Indian states and union territories based on their level of awareness regarding juvenile delinquency. 
 
 The project will analyze the juvenile crime statistics for a 10-year period (2001-2010) and classify each state or UT into one of four classes based on their level of awareness against juvenile crimes: Relaxed-Awareness-Required, Focused-Awareness-Required, High-Awareness-Required, and Alarmingly-High-Awareness-Required. This classification is important because the lack of awareness in society about juvenile delinquency is a major challenge for Indian society that needs immediate attention.
 
