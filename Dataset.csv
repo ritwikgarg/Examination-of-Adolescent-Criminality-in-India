@@ -1,0 +1,351 @@
+ID,STATE/UT,Year,Education_Illiterate,Education_Upto_primary,Education_Above_Primary_but_below_Higher_Secondary,Education_Higher_Secondary_&_above,Total_Juvenile_Crimes,Crime_Score,Required_Awarenss_Level
+1,Andaman & Nicobar Islands,2001,0,4,12,0,16,6.6,Relaxed-Awareness-Required
+2,Andaman & Nicobar Islands,2002,0,2,4,0,6,2.5,Relaxed-Awareness-Required
+3,Andaman & Nicobar Islands,2003,0,2,7,0,9,3.7,Relaxed-Awareness-Required
+4,Andaman & Nicobar Islands,2004,0,7,6,0,13,5.55,Relaxed-Awareness-Required
+5,Andaman & Nicobar Islands,2005,0,4,6,0,10,4.2,Relaxed-Awareness-Required
+6,Andaman & Nicobar Islands,2006,0,43,45,3,91,33.65,Focused-Awareness-Required
+7,Andaman & Nicobar Islands,2007,0,40,32,3,75,27.4,Focused-Awareness-Required
+8,Andaman & Nicobar Islands,2008,0,7,36,12,55,22.05,Relaxed-Awareness-Required
+9,Andaman & Nicobar Islands,2009,0,14,22,2,38,15.8,Relaxed-Awareness-Required
+10,Andaman & Nicobar Islands,2010,1,19,5,1,26,11.3,Relaxed-Awareness-Required
+11,Andhra Pradesh,2001,640,683,178,64,1565,678.15,Alarmingly-High-Awareness-Required
+12,Andhra Pradesh,2002,1033,645,291,115,2084,855.7,Alarmingly-High-Awareness-Required
+13,Andhra Pradesh,2003,1193,817,513,150,2673,1086.6,Alarmingly-High-Awareness-Required
+14,Andhra Pradesh,2004,959,648,440,149,2196,869.55,Alarmingly-High-Awareness-Required
+15,Andhra Pradesh,2005,988,839,463,138,2428,961.65,Alarmingly-High-Awareness-Required
+16,Andhra Pradesh,2006,783,681,313,102,1879,802,Alarmingly-High-Awareness-Required
+17,Andhra Pradesh,2007,749,707,317,180,1953,838.8,Alarmingly-High-Awareness-Required
+18,Andhra Pradesh,2008,655,554,326,87,1622,698.65,Alarmingly-High-Awareness-Required
+19,Andhra Pradesh,2009,513,521,367,164,1565,675.2,Alarmingly-High-Awareness-Required
+20,Andhra Pradesh,2010,767,646,421,115,1949,841.65,Alarmingly-High-Awareness-Required
+21,Arunachal Pradesh,2001,16,70,39,12,137,59,Focused-Awareness-Required
+22,Arunachal Pradesh,2002,41,49,32,10,132,57.3,Focused-Awareness-Required
+23,Arunachal Pradesh,2003,69,75,52,0,196,85.6,High-Awareness-Required
+24,Arunachal Pradesh,2004,21,26,23,21,91,38.75,Focused-Awareness-Required
+25,Arunachal Pradesh,2005,4,34,109,0,147,60.7,Focused-Awareness-Required
+26,Arunachal Pradesh,2006,0,39,41,0,80,33.95,Focused-Awareness-Required
+27,Arunachal Pradesh,2007,20,46,39,0,105,45.3,Focused-Awareness-Required
+28,Arunachal Pradesh,2008,14,28,43,0,85,36.1,Focused-Awareness-Required
+29,Arunachal Pradesh,2009,14,50,67,8,139,58.8,Focused-Awareness-Required
+30,Arunachal Pradesh,2010,0,14,32,35,81,33.1,Focused-Awareness-Required
+31,Assam,2001,91,88,74,0,253,110.15,High-Awareness-Required
+32,Assam,2002,100,94,120,18,332,142.5,High-Awareness-Required
+33,Assam,2003,127,98,73,80,378,162.45,High-Awareness-Required
+34,Assam,2004,76,108,106,41,331,141.6,High-Awareness-Required
+35,Assam,2005,140,120,94,19,373,162.2,High-Awareness-Required
+36,Assam,2006,211,151,123,54,539,233.7,High-Awareness-Required
+37,Assam,2007,255,246,362,292,1155,487.05,Alarmingly-High-Awareness-Required
+38,Assam,2008,330,259,54,1,644,286.85,High-Awareness-Required
+39,Assam,2009,109,167,210,77,563,238.2,High-Awareness-Required
+40,Assam,2010,225,125,26,9,385,171.3,High-Awareness-Required
+41,Bihar,2001,190,253,87,56,586,255.55,High-Awareness-Required
+42,Bihar,2002,157,309,118,76,660,286.6,High-Awareness-Required
+43,Bihar,2003,105,84,77,26,292,123.55,High-Awareness-Required
+44,Bihar,2004,161,51,24,0,236,102.7,High-Awareness-Required
+45,Bihar,2005,95,72,142,28,337,140.45,High-Awareness-Required
+46,Bihar,2006,87,73,79,0,239,102.5,High-Awareness-Required
+47,Bihar,2007,491,349,592,37,1469,622.3,Alarmingly-High-Awareness-Required
+48,Bihar,2008,395,377,388,84,1244,528.1,Alarmingly-High-Awareness-Required
+49,Bihar,2009,307,360,328,71,1066,451.15,Alarmingly-High-Awareness-Required
+50,Bihar,2010,241,188,263,50,742,313.35,High-Awareness-Required
+51,Chandigarh,2001,12,26,33,0,71,29.8,Focused-Awareness-Required
+52,Chandigarh,2002,6,18,46,5,75,30.7,Focused-Awareness-Required
+53,Chandigarh,2003,24,14,72,6,116,47.8,Focused-Awareness-Required
+54,Chandigarh,2004,42,19,46,2,109,46.25,Focused-Awareness-Required
+55,Chandigarh,2005,54,41,17,4,116,50.95,Focused-Awareness-Required
+56,Chandigarh,2006,36,30,34,7,107,45.8,Focused-Awareness-Required
+57,Chandigarh,2007,15,25,58,20,118,48.9,Focused-Awareness-Required
+58,Chandigarh,2008,38,36,75,13,162,68,Focused-Awareness-Required
+59,Chandigarh,2009,23,34,46,32,135,56.75,Focused-Awareness-Required
+60,Chandigarh,2010,24,63,48,33,168,71.35,Focused-Awareness-Required
+61,Chhattisgarh,2001,205,748,348,61,1362,575.35,Alarmingly-High-Awareness-Required
+62,Chhattisgarh,2002,404,562,409,32,1407,596.1,Alarmingly-High-Awareness-Required
+63,Chhattisgarh,2003,416,740,423,23,1602,682.3,Alarmingly-High-Awareness-Required
+64,Chhattisgarh,2004,432,780,699,91,2002,811.1,Alarmingly-High-Awareness-Required
+65,Chhattisgarh,2005,888,1507,589,153,3137,1229.45,Alarmingly-High-Awareness-Required
+66,Chhattisgarh,2006,326,752,724,251,2053,851.4,Alarmingly-High-Awareness-Required
+67,Chhattisgarh,2007,346,842,553,286,2027,825.1,Alarmingly-High-Awareness-Required
+68,Chhattisgarh,2008,1341,727,743,235,3046,1300.8,Alarmingly-High-Awareness-Required
+69,Chhattisgarh,2009,842,920,1063,287,3112,1307.7,Alarmingly-High-Awareness-Required
+70,Chhattisgarh,2010,442,1073,739,102,2356,995.35,Alarmingly-High-Awareness-Required
+71,Dadra & Nagar Haveli,2001,0,2,0,0,2,0.9,Relaxed-Awareness-Required
+72,Dadra & Nagar Haveli,2002,0,0,0,0,0,0,Relaxed-Awareness-Required
+73,Dadra & Nagar Haveli,2003,0,1,1,0,2,0.85,Relaxed-Awareness-Required
+74,Dadra & Nagar Haveli,2004,0,2,2,0,4,1.7,Relaxed-Awareness-Required
+75,Dadra & Nagar Haveli,2005,3,12,4,0,19,8.35,Relaxed-Awareness-Required
+76,Dadra & Nagar Haveli,2006,1,4,4,0,9,3.85,Relaxed-Awareness-Required
+77,Dadra & Nagar Haveli,2007,0,9,2,0,11,4.85,Relaxed-Awareness-Required
+78,Dadra & Nagar Haveli,2008,2,6,6,8,22,9.2,Relaxed-Awareness-Required
+79,Dadra & Nagar Haveli,2009,8,6,4,8,26,11.1,Relaxed-Awareness-Required
+80,Dadra & Nagar Haveli,2010,2,9,8,0,19,8.15,Relaxed-Awareness-Required
+81,Daman & Diu,2001,2,0,0,0,2,0.9,Relaxed-Awareness-Required
+82,Daman & Diu,2002,0,0,0,0,0,0,Relaxed-Awareness-Required
+83,Daman & Diu,2003,0,0,2,0,2,0.8,Relaxed-Awareness-Required
+84,Daman & Diu,2004,0,0,0,0,0,0,Relaxed-Awareness-Required
+85,Daman & Diu,2005,0,0,1,0,1,0.4,Relaxed-Awareness-Required
+86,Daman & Diu,2006,1,0,4,0,5,2.05,Relaxed-Awareness-Required
+87,Daman & Diu,2007,3,0,0,11,14,5.75,Relaxed-Awareness-Required
+88,Daman & Diu,2008,3,0,8,0,11,4.55,Relaxed-Awareness-Required
+89,Daman & Diu,2009,0,2,0,1,3,1.2,Relaxed-Awareness-Required
+90,Daman & Diu,2010,4,2,3,1,10,4.2,Relaxed-Awareness-Required
+91,Delhi UT,2001,268,323,228,39,858,368.55,High-Awareness-Required
+92,Delhi UT,2002,397,317,310,168,1192,503.7,Alarmingly-High-Awareness-Required
+93,Delhi UT,2003,380,197,200,25,802,343.95,High-Awareness-Required
+94,Delhi UT,2004,341,228,298,42,909,387.85,High-Awareness-Required
+95,Delhi UT,2005,458,331,394,67,1250,526.35,Alarmingly-High-Awareness-Required
+96,Delhi UT,2006,739,550,188,36,1513,648.05,Alarmingly-High-Awareness-Required
+97,Delhi UT,2007,490,270,170,40,970,412.6,Alarmingly-High-Awareness-Required
+98,Delhi UT,2008,222,190,74,37,523,229.5,High-Awareness-Required
+99,Delhi UT,2009,199,160,167,60,586,252.15,High-Awareness-Required
+100,Delhi UT,2010,154,235,204,34,627,269.85,High-Awareness-Required
+101,Goa,2001,31,19,34,9,93,37.1,Focused-Awareness-Required
+102,Goa,2002,25,24,11,8,68,29.55,Focused-Awareness-Required
+103,Goa,2003,34,19,27,7,87,37.15,Focused-Awareness-Required
+104,Goa,2004,19,18,33,4,74,30.35,Focused-Awareness-Required
+105,Goa,2005,32,14,12,8,66,28.2,Focused-Awareness-Required
+106,Goa,2006,30,15,20,3,68,29.35,Focused-Awareness-Required
+107,Goa,2007,20,29,23,5,77,33.15,Focused-Awareness-Required
+108,Goa,2008,11,19,27,10,67,28.2,Focused-Awareness-Required
+109,Goa,2009,22,19,30,5,76,32.45,Focused-Awareness-Required
+110,Goa,2010,19,15,37,6,77,32.4,Focused-Awareness-Required
+111,Gujarat,2001,835,2125,1144,266,4370,1720.6,Alarmingly-High-Awareness-Required
+112,Gujarat,2002,750,1612,843,130,3335,1353.5,Alarmingly-High-Awareness-Required
+113,Gujarat,2003,613,1375,572,157,2717,1089.5,Alarmingly-High-Awareness-Required
+114,Gujarat,2004,970,1071,489,159,2689,1091.55,Alarmingly-High-Awareness-Required
+115,Gujarat,2005,640,1298,596,214,2748,1104.1,Alarmingly-High-Awareness-Required
+116,Gujarat,2006,677,1316,669,145,2807,1154.25,Alarmingly-High-Awareness-Required
+117,Gujarat,2007,520,1348,726,284,2878,1184.4,Alarmingly-High-Awareness-Required
+118,Gujarat,2008,453,1396,678,172,2699,1116.35,Alarmingly-High-Awareness-Required
+119,Gujarat,2009,386,1154,758,168,2466,1003.8,Alarmingly-High-Awareness-Required
+120,Gujarat,2010,341,942,662,176,2121,869.25,Alarmingly-High-Awareness-Required
+121,Haryana,2001,343,561,879,232,2015,787,Alarmingly-High-Awareness-Required
+122,Haryana,2002,424,652,1104,331,2511,992.1,Alarmingly-High-Awareness-Required
+123,Haryana,2003,245,474,997,310,2026,788.85,Alarmingly-High-Awareness-Required
+124,Haryana,2004,233,394,923,127,1677,656.55,Alarmingly-High-Awareness-Required
+125,Haryana,2005,234,418,798,173,1623,640.1,Alarmingly-High-Awareness-Required
+126,Haryana,2006,264,450,851,147,1712,674.6,Alarmingly-High-Awareness-Required
+127,Haryana,2007,214,515,945,166,1840,734.15,Alarmingly-High-Awareness-Required
+128,Haryana,2008,154,519,882,244,1799,725.75,Alarmingly-High-Awareness-Required
+129,Haryana,2009,137,455,579,203,1374,560.8,Alarmingly-High-Awareness-Required
+130,Haryana,2010,79,246,443,139,907,371.95,High-Awareness-Required
+131,Himachal Pradesh,2001,1,31,69,41,142,57.2,Focused-Awareness-Required
+132,Himachal Pradesh,2002,14,37,50,20,121,50.55,Focused-Awareness-Required
+133,Himachal Pradesh,2003,6,25,63,30,124,50.75,Focused-Awareness-Required
+134,Himachal Pradesh,2004,0,22,57,38,117,47.7,Focused-Awareness-Required
+135,Himachal Pradesh,2005,5,48,103,38,194,79.15,High-Awareness-Required
+136,Himachal Pradesh,2006,2,12,67,47,128,51,Focused-Awareness-Required
+137,Himachal Pradesh,2007,5,8,75,57,145,58.65,Focused-Awareness-Required
+138,Himachal Pradesh,2008,11,30,77,45,163,67.15,Focused-Awareness-Required
+139,Himachal Pradesh,2009,1,41,72,56,170,69.3,Focused-Awareness-Required
+140,Himachal Pradesh,2010,6,28,92,92,218,87.7,High-Awareness-Required
+141,Jammu & Kashmir,2001,1,0,1,0,2,0.85,Relaxed-Awareness-Required
+142,Jammu & Kashmir,2002,3,0,0,0,3,1.35,Relaxed-Awareness-Required
+143,Jammu & Kashmir,2003,0,1,17,0,18,7.25,Relaxed-Awareness-Required
+144,Jammu & Kashmir,2004,3,6,2,0,11,4.85,Relaxed-Awareness-Required
+145,Jammu & Kashmir,2005,2,4,1,0,7,3,Relaxed-Awareness-Required
+146,Jammu & Kashmir,2006,0,0,5,3,8,3.1,Relaxed-Awareness-Required
+147,Jammu & Kashmir,2007,3,2,3,7,15,6.25,Relaxed-Awareness-Required
+148,Jammu & Kashmir,2008,3,5,4,0,12,5.1,Relaxed-Awareness-Required
+149,Jammu & Kashmir,2009,0,4,2,5,11,4.5,Relaxed-Awareness-Required
+150,Jammu & Kashmir,2010,2,7,15,3,27,11.25,Relaxed-Awareness-Required
+151,Jharkhand,2001,126,114,43,15,298,129.9,High-Awareness-Required
+152,Jharkhand,2002,194,379,13,160,746,325.55,High-Awareness-Required
+153,Jharkhand,2003,250,210,175,186,821,340.2,High-Awareness-Required
+154,Jharkhand,2004,248,212,176,186,822,340.5,High-Awareness-Required
+155,Jharkhand,2005,307,271,236,246,1060,435.2,Alarmingly-High-Awareness-Required
+156,Jharkhand,2006,384,230,207,41,862,373.1,High-Awareness-Required
+157,Jharkhand,2007,161,185,109,54,509,216.7,High-Awareness-Required
+158,Jharkhand,2008,335,150,57,7,549,236.75,High-Awareness-Required
+159,Jharkhand,2009,343,307,102,36,788,341.7,High-Awareness-Required
+160,Jharkhand,2010,47,42,10,5,104,45.25,Focused-Awareness-Required
+161,Karnataka,2001,566,167,91,19,843,358.85,High-Awareness-Required
+162,Karnataka,2002,116,92,64,5,277,120,High-Awareness-Required
+163,Karnataka,2003,80,122,104,52,358,147.5,High-Awareness-Required
+164,Karnataka,2004,172,147,96,25,440,190.05,High-Awareness-Required
+165,Karnataka,2005,96,95,44,7,242,105.75,High-Awareness-Required
+166,Karnataka,2006,77,103,417,62,659,255.4,High-Awareness-Required
+167,Karnataka,2007,50,88,419,60,617,242.4,High-Awareness-Required
+168,Karnataka,2008,162,181,95,77,515,218.65,High-Awareness-Required
+169,Karnataka,2009,54,82,88,58,282,116.6,High-Awareness-Required
+170,Karnataka,2010,63,69,35,37,204,85.8,High-Awareness-Required
+171,Kerala,2001,23,43,59,7,132,55.6,Focused-Awareness-Required
+172,Kerala,2002,7,53,115,59,234,93.9,High-Awareness-Required
+173,Kerala,2003,33,80,288,363,764,294.55,High-Awareness-Required
+174,Kerala,2004,20,98,193,71,382,152.5,High-Awareness-Required
+175,Kerala,2005,24,131,247,62,464,184.95,High-Awareness-Required
+176,Kerala,2006,32,138,193,81,444,181.9,High-Awareness-Required
+177,Kerala,2007,14,159,318,184,675,274.15,High-Awareness-Required
+178,Kerala,2008,13,176,373,214,776,314.15,High-Awareness-Required
+179,Kerala,2009,13,135,345,214,707,287.2,High-Awareness-Required
+180,Kerala,2010,38,178,348,262,826,338.7,High-Awareness-Required
+181,Lakshadweep,2001,0,0,0,1,1,0.4,Relaxed-Awareness-Required
+182,Lakshadweep,2002,0,0,0,0,0,0,Relaxed-Awareness-Required
+183,Lakshadweep,2003,0,0,0,0,0,0,Relaxed-Awareness-Required
+184,Lakshadweep,2004,0,0,0,0,0,0,Relaxed-Awareness-Required
+185,Lakshadweep,2005,0,1,0,0,1,0.45,Relaxed-Awareness-Required
+186,Lakshadweep,2006,0,0,0,0,0,0,Relaxed-Awareness-Required
+187,Lakshadweep,2007,0,0,0,0,0,0,Relaxed-Awareness-Required
+188,Lakshadweep,2008,0,0,0,0,0,0,Relaxed-Awareness-Required
+189,Lakshadweep,2009,0,0,0,0,0,0,Relaxed-Awareness-Required
+190,Lakshadweep,2010,0,0,0,0,0,0,Relaxed-Awareness-Required
+191,Madhya Pradesh,2001,1757,3681,1330,560,7328,3031,Alarmingly-High-Awareness-Required
+192,Madhya Pradesh,2002,3488,2082,2684,282,8536,3537.4,Alarmingly-High-Awareness-Required
+193,Madhya Pradesh,2003,1909,4051,1282,430,7672,3303.6,Alarmingly-High-Awareness-Required
+194,Madhya Pradesh,2004,2160,3114,1668,491,7433,3170.4,Alarmingly-High-Awareness-Required
+195,Madhya Pradesh,2005,1553,2406,2003,416,6378,2678.65,Alarmingly-High-Awareness-Required
+196,Madhya Pradesh,2006,1770,2533,1955,556,6814,2852.95,Alarmingly-High-Awareness-Required
+197,Madhya Pradesh,2007,1752,2618,2231,749,7350,3064.2,Alarmingly-High-Awareness-Required
+198,Madhya Pradesh,2008,1735,2788,1977,608,7108,2991.05,Alarmingly-High-Awareness-Required
+199,Madhya Pradesh,2009,1310,2041,1910,925,6186,2540.75,Alarmingly-High-Awareness-Required
+200,Madhya Pradesh,2010,1696,2296,1941,516,6449,2737.1,Alarmingly-High-Awareness-Required
+201,Maharashtra,2001,832,2017,1973,168,4990,2052.75,Alarmingly-High-Awareness-Required
+202,Maharashtra,2002,759,2185,2133,302,5379,2207,Alarmingly-High-Awareness-Required
+203,Maharashtra,2003,919,2268,1520,363,5070,2135.45,Alarmingly-High-Awareness-Required
+204,Maharashtra,2004,859,1984,2291,362,5496,2284.35,Alarmingly-High-Awareness-Required
+205,Maharashtra,2005,1153,2505,2270,375,6303,2643.4,Alarmingly-High-Awareness-Required
+206,Maharashtra,2006,1028,3123,2143,364,6658,2801.45,Alarmingly-High-Awareness-Required
+207,Maharashtra,2007,1236,3063,2045,492,6836,2890.35,Alarmingly-High-Awareness-Required
+208,Maharashtra,2008,1551,2570,2375,523,7019,2969.75,Alarmingly-High-Awareness-Required
+209,Maharashtra,2009,768,2768,2544,892,6972,2914.9,Alarmingly-High-Awareness-Required
+210,Maharashtra,2010,810,2492,2224,862,6388,2669.9,Alarmingly-High-Awareness-Required
+211,Manipur,2001,0,0,0,0,0,0,Relaxed-Awareness-Required
+212,Manipur,2002,0,0,0,0,0,0,Relaxed-Awareness-Required
+213,Manipur,2003,0,0,0,0,0,0,Relaxed-Awareness-Required
+214,Manipur,2004,0,0,0,0,0,0,Relaxed-Awareness-Required
+215,Manipur,2005,0,0,0,0,0,0,Relaxed-Awareness-Required
+216,Manipur,2006,0,0,0,0,0,0,Relaxed-Awareness-Required
+217,Manipur,2007,0,0,0,0,0,0,Relaxed-Awareness-Required
+218,Manipur,2008,0,0,0,0,0,0,Relaxed-Awareness-Required
+219,Manipur,2009,0,0,0,0,0,0,Relaxed-Awareness-Required
+220,Manipur,2010,0,0,0,0,0,0,Relaxed-Awareness-Required
+221,Meghalaya,2001,39,23,3,1,66,29.4,Focused-Awareness-Required
+222,Meghalaya,2002,33,27,8,0,68,29.7,Focused-Awareness-Required
+223,Meghalaya,2003,15,12,8,0,35,15.05,Relaxed-Awareness-Required
+224,Meghalaya,2004,14,20,18,3,55,23.5,Focused-Awareness-Required
+225,Meghalaya,2005,50,44,12,1,107,46.3,Focused-Awareness-Required
+226,Meghalaya,2006,23,22,11,2,58,25.45,Focused-Awareness-Required
+227,Meghalaya,2007,55,40,6,5,106,47.05,Focused-Awareness-Required
+228,Meghalaya,2008,28,54,55,2,139,58.9,Focused-Awareness-Required
+229,Meghalaya,2009,14,46,27,1,88,38.1,Focused-Awareness-Required
+230,Meghalaya,2010,43,48,24,3,118,50.95,Focused-Awareness-Required
+231,Mizoram,2001,6,23,20,0,49,19.25,Relaxed-Awareness-Required
+232,Mizoram,2002,4,36,20,0,60,24.9,Focused-Awareness-Required
+233,Mizoram,2003,3,35,34,10,82,31.3,Focused-Awareness-Required
+234,Mizoram,2004,349,153,206,110,818,331.2,High-Awareness-Required
+235,Mizoram,2005,50,238,104,21,413,170.6,High-Awareness-Required
+236,Mizoram,2006,5,66,18,0,89,38.55,Focused-Awareness-Required
+237,Mizoram,2007,0,32,59,0,91,36.9,Focused-Awareness-Required
+238,Mizoram,2008,0,18,47,5,70,27.8,Focused-Awareness-Required
+239,Mizoram,2009,0,2,8,10,20,8,Relaxed-Awareness-Required
+240,Mizoram,2010,3,40,73,0,116,44.55,Focused-Awareness-Required
+241,Nagaland,2001,1,12,12,1,26,10.55,Relaxed-Awareness-Required
+242,Nagaland,2002,0,2,12,0,14,5.2,Relaxed-Awareness-Required
+243,Nagaland,2003,0,0,1,0,1,0.3,Relaxed-Awareness-Required
+244,Nagaland,2004,0,3,0,0,3,1.35,Relaxed-Awareness-Required
+245,Nagaland,2005,0,3,0,0,3,1.35,Relaxed-Awareness-Required
+246,Nagaland,2006,1,2,0,0,3,1.35,Relaxed-Awareness-Required
+247,Nagaland,2007,0,0,0,0,0,0,Relaxed-Awareness-Required
+248,Nagaland,2008,0,0,0,0,0,0,Relaxed-Awareness-Required
+249,Nagaland,2009,2,6,12,0,20,7.8,Relaxed-Awareness-Required
+250,Nagaland,2010,3,12,30,8,53,21.25,Relaxed-Awareness-Required
+251,Odisha,2001,39,110,51,12,212,92.25,High-Awareness-Required
+252,Odisha,2002,63,69,43,17,192,82.9,High-Awareness-Required
+253,Odisha,2003,143,78,77,15,313,136.25,High-Awareness-Required
+254,Odisha,2004,162,125,64,8,359,157.45,High-Awareness-Required
+255,Odisha,2005,251,208,178,18,655,279.05,High-Awareness-Required
+256,Odisha,2006,244,185,172,26,627,267.65,High-Awareness-Required
+257,Odisha,2007,148,217,229,64,658,278.35,High-Awareness-Required
+258,Odisha,2008,257,269,207,40,773,333.6,High-Awareness-Required
+259,Odisha,2009,83,148,213,39,483,202.85,High-Awareness-Required
+260,Odisha,2010,195,145,164,40,544,232.9,High-Awareness-Required
+261,Puducherry,2001,0,3,0,0,3,1.35,Relaxed-Awareness-Required
+262,Puducherry,2002,2,9,5,0,16,6.95,Relaxed-Awareness-Required
+263,Puducherry,2003,2,34,4,0,40,17.3,Relaxed-Awareness-Required
+264,Puducherry,2004,0,55,0,0,55,24.75,Focused-Awareness-Required
+265,Puducherry,2005,0,17,25,0,42,17.45,Relaxed-Awareness-Required
+266,Puducherry,2006,6,31,0,0,37,16.55,Relaxed-Awareness-Required
+267,Puducherry,2007,5,57,0,0,62,27.9,Focused-Awareness-Required
+268,Puducherry,2008,0,38,13,4,55,23.5,Focused-Awareness-Required
+269,Puducherry,2009,27,54,0,0,81,36.25,Focused-Awareness-Required
+270,Puducherry,2010,0,49,0,0,49,21.45,Relaxed-Awareness-Required
+271,Punjab,2001,10,8,4,7,29,12,Relaxed-Awareness-Required
+272,Punjab,2002,30,44,73,9,156,64.1,Focused-Awareness-Required
+273,Punjab,2003,83,20,10,19,132,54.75,Focused-Awareness-Required
+274,Punjab,2004,52,19,14,11,96,40.25,Focused-Awareness-Required
+275,Punjab,2005,50,41,33,11,135,56.25,Focused-Awareness-Required
+276,Punjab,2006,45,66,30,18,159,64.85,Focused-Awareness-Required
+277,Punjab,2007,44,41,29,15,129,53.45,Focused-Awareness-Required
+278,Punjab,2008,26,29,29,29,113,46.85,Focused-Awareness-Required
+279,Punjab,2009,62,67,57,47,233,96.35,High-Awareness-Required
+280,Punjab,2010,81,83,53,29,246,104.6,High-Awareness-Required
+281,Rajasthan,2001,957,1184,910,194,3245,1368.85,Alarmingly-High-Awareness-Required
+282,Rajasthan,2002,242,1038,617,40,1937,821.6,Alarmingly-High-Awareness-Required
+283,Rajasthan,2003,277,833,700,52,1862,778.1,Alarmingly-High-Awareness-Required
+284,Rajasthan,2004,346,722,746,61,1875,788.8,Alarmingly-High-Awareness-Required
+285,Rajasthan,2005,517,767,608,66,1958,825.8,Alarmingly-High-Awareness-Required
+286,Rajasthan,2006,350,1016,637,83,2086,884.9,Alarmingly-High-Awareness-Required
+287,Rajasthan,2007,539,743,699,143,2124,898.2,Alarmingly-High-Awareness-Required
+288,Rajasthan,2008,532,937,754,129,2352,1000.45,Alarmingly-High-Awareness-Required
+289,Rajasthan,2009,503,906,818,229,2456,1037.05,Alarmingly-High-Awareness-Required
+290,Rajasthan,2010,322,817,960,279,2378,992.65,Alarmingly-High-Awareness-Required
+291,Sikkim,2001,0,5,12,0,17,6.85,Relaxed-Awareness-Required
+292,Sikkim,2002,1,1,0,0,2,0.9,Relaxed-Awareness-Required
+293,Sikkim,2003,0,17,0,0,17,7.65,Relaxed-Awareness-Required
+294,Sikkim,2004,0,6,7,0,13,5.5,Relaxed-Awareness-Required
+295,Sikkim,2005,0,15,9,0,24,10.25,Relaxed-Awareness-Required
+296,Sikkim,2006,4,22,9,0,35,15.3,Relaxed-Awareness-Required
+297,Sikkim,2007,38,48,8,0,94,41.5,Focused-Awareness-Required
+298,Sikkim,2008,7,26,4,0,37,16.05,Relaxed-Awareness-Required
+299,Sikkim,2009,12,30,18,0,60,26.1,Focused-Awareness-Required
+300,Sikkim,2010,4,33,43,2,82,33.05,Focused-Awareness-Required
+301,Tamil Nadu,2001,855,3516,163,21,4555,1647.65,Alarmingly-High-Awareness-Required
+302,Tamil Nadu,2002,3004,2893,183,2,6082,2182.65,Alarmingly-High-Awareness-Required
+303,Tamil Nadu,2003,2605,1764,248,278,4895,1768.25,Alarmingly-High-Awareness-Required
+304,Tamil Nadu,2004,1553,645,145,30,2373,901.5,Alarmingly-High-Awareness-Required
+305,Tamil Nadu,2005,979,811,319,39,2148,819.7,Alarmingly-High-Awareness-Required
+306,Tamil Nadu,2006,755,880,327,12,1974,748.25,Alarmingly-High-Awareness-Required
+307,Tamil Nadu,2007,639,680,394,8,1721,666.25,Alarmingly-High-Awareness-Required
+308,Tamil Nadu,2008,653,674,238,28,1593,642.65,Alarmingly-High-Awareness-Required
+309,Tamil Nadu,2009,1727,772,370,52,2921,1144.25,Alarmingly-High-Awareness-Required
+310,Tamil Nadu,2010,445,696,455,48,1644,659.35,Alarmingly-High-Awareness-Required
+311,Tripura,2001,10,6,2,2,20,8.8,Relaxed-Awareness-Required
+312,Tripura,2002,5,0,2,0,7,3.05,Relaxed-Awareness-Required
+313,Tripura,2003,0,0,0,0,0,0,Relaxed-Awareness-Required
+314,Tripura,2004,0,0,0,0,0,0,Relaxed-Awareness-Required
+315,Tripura,2005,0,0,0,0,0,0,Relaxed-Awareness-Required
+316,Tripura,2006,0,0,0,0,0,0,Relaxed-Awareness-Required
+317,Tripura,2007,1,1,0,0,2,0.9,Relaxed-Awareness-Required
+318,Tripura,2008,21,8,7,7,43,18.65,Relaxed-Awareness-Required
+319,Tripura,2009,22,60,9,0,91,40.1,Focused-Awareness-Required
+320,Tripura,2010,35,6,5,0,46,20.35,Relaxed-Awareness-Required
+321,Uttar Pradesh,2001,35,85,103,33,256,97.8,High-Awareness-Required
+322,Uttar Pradesh,2002,15,32,32,17,96,38.95,Focused-Awareness-Required
+323,Uttar Pradesh,2003,19,12,19,11,61,25.65,Focused-Awareness-Required
+324,Uttar Pradesh,2004,60,39,29,7,135,58.35,Focused-Awareness-Required
+325,Uttar Pradesh,2005,34,34,36,11,115,48.4,Focused-Awareness-Required
+326,Uttar Pradesh,2006,41,63,53,15,172,72.1,Focused-Awareness-Required
+327,Uttar Pradesh,2007,56,171,102,98,427,180.85,High-Awareness-Required
+328,Uttar Pradesh,2008,45,129,133,40,347,145.6,High-Awareness-Required
+329,Uttar Pradesh,2009,113,176,146,40,475,200.75,High-Awareness-Required
+330,Uttar Pradesh,2010,166,278,308,100,852,355.9,High-Awareness-Required
+331,Uttarakhand,2001,0,0,28,29,57,17.6,Relaxed-Awareness-Required
+332,Uttarakhand,2002,0,1,6,27,34,10.95,Relaxed-Awareness-Required
+333,Uttarakhand,2003,0,0,7,23,30,9.4,Relaxed-Awareness-Required
+334,Uttarakhand,2004,0,5,19,12,36,12.65,Relaxed-Awareness-Required
+335,Uttarakhand,2005,0,4,31,4,39,15.1,Relaxed-Awareness-Required
+336,Uttarakhand,2006,25,33,37,11,106,44.8,Focused-Awareness-Required
+337,Uttarakhand,2007,6,32,34,57,129,52.2,Focused-Awareness-Required
+338,Uttarakhand,2008,49,45,30,33,157,64,Focused-Awareness-Required
+339,Uttarakhand,2009,130,62,32,30,254,103.8,High-Awareness-Required
+340,Uttarakhand,2010,51,71,31,1,154,67.1,Focused-Awareness-Required
+341,West Bengal,2001,7,13,7,0,27,11.6,Relaxed-Awareness-Required
+342,West Bengal,2002,6,9,2,0,17,7.25,Relaxed-Awareness-Required
+343,West Bengal,2003,68,47,8,0,123,46.65,Focused-Awareness-Required
+344,West Bengal,2004,21,44,28,0,93,39.95,Focused-Awareness-Required
+345,West Bengal,2005,53,61,24,0,138,57,Focused-Awareness-Required
+346,West Bengal,2006,28,59,29,8,124,52.75,Focused-Awareness-Required
+347,West Bengal,2007,51,48,41,5,145,58.45,Focused-Awareness-Required
+348,West Bengal,2008,23,299,257,128,707,294.2,High-Awareness-Required
+349,West Bengal,2009,37,84,47,27,195,80.55,High-Awareness-Required
+350,West Bengal,2010,30,119,153,35,337,136.25,High-Awareness-Required
